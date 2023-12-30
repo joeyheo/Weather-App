@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/joeyheo/Weather-App/assets/73047475/d43fdd1e-6849-41df-824a-c9c67c7f9367" width="30%" height="30%">
+</p>
+
 # Weather App
 
 Welcome to the Weather App repository! This React Native application provides a sleek and intuitive way to view the weather forecast. Utilizing the OpenWeatherMap API, it offers real-time weather updates based on your current location.
